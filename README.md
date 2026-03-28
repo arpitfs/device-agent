@@ -20,6 +20,7 @@ An **intelligent agent** that leverages the **Hugging Face quantized model** `hu
 
 ## Project Structure
 
+```
 device-agent-ai/
 ├─ main.py               # Entry point for the agent
 ├─ src/
@@ -28,3 +29,4 @@ device-agent-ai/
 │  └─ tools.py           # Internal tools (e.g., current time)
 ├─ requirements.txt      # Python dependencies
 └─ README.md
+```
